@@ -1,14 +1,14 @@
 
 import Navigation from "./components/Navigation";
-import Header from "./components/Header"
+import Header from "./components/Header";
 import Skills from "./components/Skills";
-
+import About from "./components/About"
 
 function App(){
   
   return( 
     <>
-      <Header />
+      <About />
     </>
   )
 }
